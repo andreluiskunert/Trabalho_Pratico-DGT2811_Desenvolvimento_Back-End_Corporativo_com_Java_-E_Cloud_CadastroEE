@@ -141,3 +141,6 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+/CadastroEE/CadastroEE-ejb/build/
+/CadastroEE/CadastroEE-war/build/
+/CadastroEE/build/

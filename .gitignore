@@ -144,3 +144,10 @@ vite.config.ts.timestamp-*
 /CadastroEE/CadastroEE-ejb/build/
 /CadastroEE/CadastroEE-war/build/
 /CadastroEE/build/
+/CadastroEE_NetBeans30_Final/CadastroEE/CadastroEE-ejb/build/
+/CadastroEE_NetBeans30_Final/CadastroEE/CadastroEE-ejb/nbproject/private/
+/CadastroEE_NetBeans30_Final/CadastroEE/CadastroEE-war/build/
+/CadastroEE_NetBeans30_Final/CadastroEE/CadastroEE-war/nbproject/private/
+/CadastroEE_NetBeans30_Final/CadastroEE/build/
+/CadastroEE_NetBeans30_Final/CadastroEE/nbproject/private/
+/CadastroEE/CadastroEE/build/

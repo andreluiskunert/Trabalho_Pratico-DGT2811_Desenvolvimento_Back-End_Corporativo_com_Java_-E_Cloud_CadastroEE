@@ -154,3 +154,25 @@ Projeto acadêmico desenvolvido para fins educacionais na disciplina:
 ## 📄 Licença
 
 Este projeto foi desenvolvido exclusivamente para fins acadêmicos e educacionais.
+
+# Análise do Trabalho DGT2811
+
+## Correções realizadas
+- Ajustado import do ServletProduto para utilizar `cadastroee.controller.ProductFacadeLocal`.
+- Identificada inconsistência entre pasta `controler` e package `controller`.
+- Projeto ainda necessita implementação do Procedimento 2 do PDF:
+  - ServletProdutoFC
+  - ProdutoLista.jsp
+  - ProdutoDados.jsp
+- Necessária aplicação do Bootstrap nas JSPs.
+- Recomenda-se atualizar o projeto para NetBeans 30 + Jakarta EE 8.
+
+## Descrição do Trabalho
+O sistema CadastroEE é uma aplicação corporativa baseada em Jakarta EE,
+utilizando Servlets, EJB, JPA e SQL Server. O objetivo é demonstrar a
+integração entre camada de persistência, regras de negócio e interface Web,
+seguindo arquitetura multicamadas.
+
+## Conclusão
+A primeira etapa do trabalho encontra-se parcialmente implementada.
+A segunda etapa (CRUD completo com JSP e Front Controller) ainda precisa ser concluída.
